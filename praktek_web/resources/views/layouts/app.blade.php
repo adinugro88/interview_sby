@@ -30,6 +30,15 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
+                        <li class="nav-item mx-3" >
+                            <a class="nav-link" href="/inventory">produk</a>
+                        </li>
+                        <li class="nav-item mx-3" >
+                            <a class="nav-link" href="/inventory">Transaksi Beli</a>
+                        </li>
+                        <li class="nav-item mx-3" >
+                            <a class="nav-link" href="/inventory">Transaksi Jual</a>
+                        </li>
 
                     </ul>
 

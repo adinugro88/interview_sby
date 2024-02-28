@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Master_invetory extends Model
 {
     use HasFactory;
+    protected $guarded=[];
 }
